@@ -1,0 +1,14 @@
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/bin/Debug/netcoreapp2.1/billboard-app.deps.json
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/bin/Debug/netcoreapp2.1/billboard-app.runtimeconfig.json
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/bin/Debug/netcoreapp2.1/billboard-app.runtimeconfig.dev.json
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/bin/Debug/netcoreapp2.1/billboard-app.dll
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/bin/Debug/netcoreapp2.1/billboard-app.pdb
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/obj/Debug/netcoreapp2.1/billboard-app.csprojAssemblyReference.cache
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/obj/Debug/netcoreapp2.1/billboard-app.csproj.CoreCompileInputs.cache
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/obj/Debug/netcoreapp2.1/billboard-app.RazorAssemblyInfo.cache
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/obj/Debug/netcoreapp2.1/billboard-app.RazorAssemblyInfo.cs
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/obj/Debug/netcoreapp2.1/billboard-app.AssemblyInfoInputs.cache
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/obj/Debug/netcoreapp2.1/billboard-app.AssemblyInfo.cs
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/obj/Debug/netcoreapp2.1/billboard-app.RazorTargetAssemblyInfo.cache
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/obj/Debug/netcoreapp2.1/billboard-app.dll
+/Users/cristiangrigoras/Projects/Billboard/billboard-app/obj/Debug/netcoreapp2.1/billboard-app.pdb
