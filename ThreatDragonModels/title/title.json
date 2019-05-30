@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "title": "title",
+    "owner": "owner",
+    "description": "amlsdfiamsdlifmasdlifmlim"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "title diagranm",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "title 2diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
+    "reviewer": "reviewer"
+  }
+}
